@@ -19,7 +19,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/your-username/mattermost-vote-bot.git
+git clone https://github.com/Jesar-dev/mattermost-vote-bot.git
 cd mattermost-vote-bot
 ```
 
